@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181292562729",
+    "project_id": "women-b9f7e",
+    "storage_bucket": "women-b9f7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181292562729:android:336d5cba98b70ced235f38",
+        "android_client_info": {
+          "package_name": "com.example.womenfearless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181292562729-ejibpqtp6nnqktis50mrnrlht80p71p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm_yfz86L5LXUv289Wl4YK74kQ5J0c1_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181292562729-ejibpqtp6nnqktis50mrnrlht80p71p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
